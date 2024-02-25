@@ -4,4 +4,4 @@
 
 This repo is for ~~issues~~ ~~complaints~~ ~~comments~~ ~~cat conspiracies~~ discussion about things on [Who](https://who.eloleo.io/).
 
-Join us in the [Issues](https://github.com/nomnomnomnom/who-discussion/issues) or at the bottom of the articles on [Who](https://who.eloleo.io/) - both do the same thing.
+Join us in the [Issues](https://github.com/nomnomnomnom/who-discussion/issues) for riveting debates.
